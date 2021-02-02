@@ -1,0 +1,11 @@
+[1012/105422.770:ERROR:settings.cc(430)] Settings version is not 5
+[1012/110422.803:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\tiago\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\b39eb57a-a8fd-4322-b469-63a4d2ed6111: O sistema não pode encontrar o caminho especificado. (0x3)
+[1012/110422.804:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1012/141300.192:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1013/103119.865:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1014/091652.775:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/091854.252:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1015/215854.156:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1017/120421.143:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1019/084926.204:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1020/090608.585:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
