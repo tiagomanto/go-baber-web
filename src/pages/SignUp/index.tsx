@@ -60,7 +60,6 @@ const SignUp:React.FC = () => {
 
         return;
       }
-
       addToast({
         type:'error',
         title:'Erro no cadastro',
